@@ -1,0 +1,6 @@
+{
+  "name": "LexiPaper — Exam Paper Layout Translator",
+  "description": "Layout-preserving Sinhala and Tamil to English exam paper translation studio with spatial OCR alignment and print-ready PDF reconstruction.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
